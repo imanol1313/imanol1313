@@ -12,7 +12,5 @@
 <br>
 <h2> 🚀 Mis habilidades 🧰 </h2>
 <p align="center">  
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,py,django,react,bootstrap,mysql,postgres,graphql,git,github,gitlab,postman,cs&perline=6" />  
-  </a>  
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,py,django,react,bootstrap,mysql,postgres,graphql,git,github,gitlab,postman,cs&perline=6" />  
 </p>
